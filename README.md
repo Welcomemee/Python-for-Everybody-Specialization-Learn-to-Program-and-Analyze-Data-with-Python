@@ -1,0 +1,2 @@
+# Python-for-Everybody-Specialization-Learn-to-Program-and-Analyze-Data-with-Python
+This repo includes:  🧠 Python fundamentals – variables, loops, functions, data structures 📥 Data retrieval – working with files, HTTP, JSON, XML 🧹 Data cleaning &amp; processing 📊 Data analysis &amp; visualization using Python libraries 🗂 Real‑world mini‑projects from each course ✏ Practice scripts &amp; hands‑on exercises
